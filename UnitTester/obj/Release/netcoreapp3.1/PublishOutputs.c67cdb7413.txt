@@ -1,0 +1,7 @@
+C:\Users\nativ\Desktop\Defects\UnitTester\UnitTester.exe
+C:\Users\nativ\Desktop\Defects\UnitTester\UnitTester.dll
+C:\Users\nativ\Desktop\Defects\UnitTester\UnitTester.deps.json
+C:\Users\nativ\Desktop\Defects\UnitTester\UnitTester.runtimeconfig.json
+C:\Users\nativ\Desktop\Defects\UnitTester\UnitTester.pdb
+C:\Users\nativ\Desktop\Defects\UnitTester\MathActions.dll
+C:\Users\nativ\Desktop\Defects\UnitTester\MathActions.pdb

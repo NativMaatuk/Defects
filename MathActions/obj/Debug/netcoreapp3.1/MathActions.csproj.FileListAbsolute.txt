@@ -1,0 +1,27 @@
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\bin\Debug\netcoreapp3.1\MathActions.deps.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.AssemblyReference.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfoInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfo.cs
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\MathActions\obj\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.AssemblyReference.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfoInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfo.cs
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.deps.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.deps.json
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.AssemblyReference.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfoInputs.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.AssemblyInfo.cs
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\MathActions\obj\Debug\netcoreapp3.1\MathActions.pdb

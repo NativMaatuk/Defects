@@ -1,0 +1,54 @@
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.exe
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.deps.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.dev.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.AssemblyReference.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.Form1.resources
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.GenerateResource.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfoInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfo.cs
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.genruntimeconfig.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CopyComplete
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.exe
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.deps.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.dev.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.AssemblyReference.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.Form1.resources
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.GenerateResource.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfoInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfo.cs
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CopyComplete
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.genruntimeconfig.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.exe
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.deps.json
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.json
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.runtimeconfig.dev.json
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.AssemblyReference.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.Form1.resources
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.GenerateResource.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfoInputs.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.AssemblyInfo.cs
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.csproj.CopyComplete
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.dll
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.pdb
+C:\Users\nativ\Google Drive\מסמכים\פרוייקטים\Defects By Nativ Maatuk\Defects\DefectsViewer\obj\Debug\netcoreapp3.1\DefectsViewer.genruntimeconfig.cache

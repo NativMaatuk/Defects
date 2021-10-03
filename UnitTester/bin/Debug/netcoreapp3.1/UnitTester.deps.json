@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UnitTester/1.0.0": {
+        "dependencies": {
+          "MathActions": "1.0.0"
+        },
+        "runtime": {
+          "UnitTester.dll": {}
+        }
+      },
+      "MathActions/1.0.0": {
+        "runtime": {
+          "MathActions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathActions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

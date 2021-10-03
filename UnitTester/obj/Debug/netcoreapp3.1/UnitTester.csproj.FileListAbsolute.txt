@@ -1,0 +1,32 @@
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.exe
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.deps.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.runtimeconfig.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.runtimeconfig.dev.json
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.AssemblyReference.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.AssemblyInfoInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.AssemblyInfo.cs
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.CopyComplete
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.dll
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.pdb
+C:\Users\nativ\Documents\C#\Defects\UnitTester\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.genruntimeconfig.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.exe
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.deps.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.runtimeconfig.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.runtimeconfig.dev.json
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\UnitTester.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\MathActions.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\bin\Debug\netcoreapp3.1\MathActions.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.AssemblyReference.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.AssemblyInfoInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.AssemblyInfo.cs
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.csproj.CopyComplete
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.dll
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.pdb
+C:\Users\nativ\Downloads\New folder\Defects By Nativ Maatuk\Defects\UnitTester\obj\Debug\netcoreapp3.1\UnitTester.genruntimeconfig.cache

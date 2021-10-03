@@ -1,0 +1,7 @@
+C:\Users\nativ\Desktop\Defects final exe\DefectsViewer.exe
+C:\Users\nativ\Desktop\Defects final exe\DefectsViewer.dll
+C:\Users\nativ\Desktop\Defects final exe\DefectsViewer.deps.json
+C:\Users\nativ\Desktop\Defects final exe\DefectsViewer.runtimeconfig.json
+C:\Users\nativ\Desktop\Defects final exe\DefectsViewer.pdb
+C:\Users\nativ\Desktop\Defects final exe\MathActions.dll
+C:\Users\nativ\Desktop\Defects final exe\MathActions.pdb
